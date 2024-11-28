@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+<img src="Atliq Dashboard Image.png">
+
 AtliQ Grands, a prominent player in the hospitality industry, has been facing challenges in maintaining its market share and revenue in the luxury/business hotels category. This project aims to leverage data analysis and business intelligence to address these challenges and support strategic decision-making.
 
 ## Objectives
